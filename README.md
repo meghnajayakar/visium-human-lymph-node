@@ -18,7 +18,6 @@ Exploratory analysis of a public 10x Genomics Visium section of human lymph node
 
 - 10x Genomics Visium V1 (Spatial 3' v1, Space Ranger 1.1.0), **Human Lymph Node**, loaded with `sc.datasets.visium_sge(sample_id="V1_Human_Lymph_Node")`.
 - 4,035 spots × 36,601 genes (GRCh38). Each spot is 55 µm and mixes roughly 1 to 10 cells, so spots are not single cells.
-- Source: [10x Genomics public datasets page](ADD LINK). Check the dataset's license terms there.
 
 ## Approach and what is mine
 
