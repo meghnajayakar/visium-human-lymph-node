@@ -1,0 +1,5 @@
+scanpy==1.12.5
+squidpy==
+anndata==0.13.4
+igraph==
+gseapy==1.3.2
