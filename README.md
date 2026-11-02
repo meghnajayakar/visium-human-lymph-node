@@ -130,3 +130,7 @@ The run was made in Google Colab (Python 3.13, scanpy 1.12.5, anndata 0.13.4, gs
 - [Scanpy tutorials](https://scanpy.scverse.org/en/stable/tutorials/index.html)
 - [Squidpy documentation](https://squidpy.readthedocs.io/en/stable/index.html)
 - MSigDB Hallmark gene sets (Liberzon et al., *Cell Systems*, 2015), via GSEApy.
+
+## Author
+
+Meghna B. Jayakar | https://github.com/meghnajayakar
